@@ -1,2 +1,1 @@
 # Ohjelmistotestaus-Projekti
-# Testaus juttu
